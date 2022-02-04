@@ -1,1 +1,1 @@
-text
+![workflow](https://github.com/Eilidh713/sem/actions/workflows/main.yml/badge.svg)
