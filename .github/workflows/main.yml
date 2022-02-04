@@ -1,9 +1,9 @@
-name: A workflow for my Hello World App
+name: hello-world-actions
 on: push
 
 jobs:
   build:
-    name: Hello world action
+    name: hello-world-actions
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
